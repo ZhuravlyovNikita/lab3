@@ -1,0 +1,73 @@
+#wrapper{
+	width: 200px;
+	float: left;
+}
+
+div1 {
+	height: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 100px;
+	background-color: red;
+	border-radius: 20px;
+}
+
+div2 {
+	height: 10em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+    height: 100px;
+	background-color: blue;
+	border-radius: 20px;
+}
+div3 {
+	height: 10em;
+	align-items: center;
+	display: flex;	
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	color: white;
+	background-color: blue;
+	border-radius: 20px;
+}
+
+div4 {
+	height: 10em;
+	align-items: center;
+	display: flex;	
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	color: white;
+	background-color: yellow;
+	border-radius: 20px;
+}
+
+div5 {
+	height: 10em;
+	align-items: center;
+	display: flex;	
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	color: white;
+	background-color: red;
+	border-radius: 20px;
+}
+
+div6 {
+	height: 10em;
+	align-items: center;
+	display: flex;	
+	justify-content: center;
+	width: 200px;
+    height: 50px;
+	color: white;
+	background-color: black;
+	border-radius: 20px;
+}
