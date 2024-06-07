@@ -1,0 +1,8 @@
+body {
+    background: blue;
+  }
+  .myDiv {
+    width: 400px;
+    margin: 0 auto;
+    background: grey;
+  }
