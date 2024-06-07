@@ -1,0 +1,24 @@
+#wrapper {
+	display: flex;
+	width: 33%;
+}
+
+#sectionA,
+#sectionB,
+#sectionC {
+	justify-content: center;
+	align-items: center;
+	width: 33%;
+}
+
+#sectionA {
+	background-color: red;
+}
+
+#sectionB {
+	background-color: green;
+}
+
+#sectionC {
+	background-color: blue;
+}
